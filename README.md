@@ -8,6 +8,7 @@ This repo contains a collection of project deliverables from my MAND course work
 ## Project Deliverables Summary
 ### 1. [Interpret a Data Visualization](https://github.com/atan4583/mand-project-portfolio/tree/master/Project%201-Interpret%20a%20Data%20Visualization)
 > * Analyze the Tableau dashboard [Madrid in Detail](https://public.tableau.com/en-us/s/gallery/madrid-details?gallery=featured) and find 3 insights in the dashboard.
+![png1](madrid.png)
 >
 >
 > * For each insight, provide a static image to share the finding. Write a short report to explain each observation and how the conclusion was reached using the information from the dashboard.
@@ -51,7 +52,6 @@ This repo contains a collection of project deliverables from my MAND course work
 >
 > ### [Project Assessment](https://github.com/atan4583/mand-project-portfolio/blob/master/Project%203-Storytelling%20With%20Data/Project%203%20Review.pdf)
  ---
- ---
 ### 4. [Data Visualization Project](https://github.com/atan4583/mand-project-portfolio/tree/master/Project%204-Data%20Visualization%20Project)
 > * Analyze the [Flight Delays dataset](https://d17h27t6h515a5.cloudfront.net/topher/2017/December/5a3b1fad_flight-delays/flight-delays.zip) containing the on-time performance of US domestic flights operated by large air carriers in 2015, build 3 visualizations to tell a story or highlight patterns in the data set.
 >
@@ -74,7 +74,7 @@ This repo contains a collection of project deliverables from my MAND course work
 > * Use readily available tools in Google Analytics to bridge the gap between raw data and actionable insight. Levarage best practices for working in Google Analytics to explore data and apply segmentation techniques to answer questions.
 >
 >
-> * Create a report demonstrating how to create primary view, filter, answer analytics questions using segmentation technique and reports and in Audience, Acquisition, Behavior and Conversion areas in Google Analytics. The
+> * Create a report demonstrating how to create primary view, filter, answer analytics questions using segmentation technique and reports in Audience, Acquisition, Behavior and Conversion areas of Google Analytics.
 >
 >
 > * Tool: Google Analytics
