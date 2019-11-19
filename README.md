@@ -112,7 +112,7 @@ This repo contains a collection of project deliverables from my MAND course work
 > * Tool: Analytic Brief template adapted from Cesar A Brea's approach
 >
 >
-> * Artifact: Project 6-Project 7-Crafting an Analytic Brief.pdf
+> * Artifact: Project 7-Crafting an Analytic Brief.pdf
 >
 >
 > ### [Project Assessment](https://github.com/atan4583/mand-project-portfolio/blob/master/Project%207-Crafting%20an%20Analytic%20Brief/Project%207%20Review.pdf)
