@@ -106,7 +106,7 @@ This repo contains a collection of project deliverables from my MAND course work
 > Use the brief as a framework to identify the data to capture for measuring performance metrics. Attach a customer journey map to the brief and use it to further evaluate the metrics being captured and evaluate whether the customer journey has revealed any gaps in the brief itself. Provide suggestions for addressing those potential gaps.
 >
 >
-> * Create a report illustrating how to create the analytics brief to unlock the questions needed to be asking and the corresponding thru the analytics process.
+> * Create a report illustrating how to create the analytics brief to unlock the questions needed to be asking and the corresponding answers thru the analytics process.
 >
 >
 > * Tool: Analytic Brief template adapted from Cesar A Brea's approach
