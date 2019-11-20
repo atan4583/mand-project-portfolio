@@ -120,4 +120,23 @@ This repo contains a collection of project deliverables from my MAND course work
 >
 >
 > ### [Project Assessment](https://github.com/atan4583/mand-project-portfolio/blob/master/Project%207-Crafting%20an%20Analytic%20Brief/Project%207%20Review.pdf)
+ ---
+### 8. [Create a Proposal for the Next Quarter](https://github.com/atan4583/mand-project-portfolio/tree/master/Project%208-Create%20a%20Proposal%20for%20the%20Next%20Quarter)
+> * Analyze the [marketing data dataset](https://docs.google.com/spreadsheets/d/17as-K-mNyxk5mVWW8RBuUb4Nt4rTkGEskIb7tQC1YQs/edit?usp=sharing) containing Black Friday sales for 2017 and 2018. Evaluate the the sales performance for the 2 years and craft a campaign report.
+> ![png8](crpt.png)
+>
+>
+> * Create a report providing insights on the analysis, answering questions about performance against the stated objectives and evaluations of audience, marketing, sales and product categories.
+>
+>
+> * Tool: Microsoft Excel, Jupter Notebook (Python)
+>
+>
+> * Programming library: panda, numpy, matplotlib, seaborn
+>
+>
+> * Artifact: Project 8-Create a Proposal for the Next Quarter.pdf
+>
+>
+> ### [Project Assessment](https://github.com/atan4583/mand-project-portfolio/blob/master/Project%208-Create%20a%20Proposal%20for%20the%20Next%20Quarter/Project%208%20Review.pdf)
 >
