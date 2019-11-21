@@ -135,7 +135,7 @@ This repo contains a collection of project deliverables from my MAND course work
 > * Programming library: panda, numpy, matplotlib, seaborn
 >
 >
-> * Artifact: Project 8-Create a Proposal for the Next Quarter.pdf
+> * Artifact: Project 8-Craft a Report.pdf
 >
 >
 > ### [Project Assessment](https://github.com/atan4583/mand-project-portfolio/blob/master/Project%208-Create%20a%20Proposal%20for%20the%20Next%20Quarter/Project%208%20Review.pdf)
