@@ -2,7 +2,7 @@
 This repo contains a collection of project deliverables from my MAND course work.
  ---
 
-![png](MAND.png)
+![png](MANDCert.png)
 
 
 ## Project Deliverables Summary
